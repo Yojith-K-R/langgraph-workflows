@@ -1,0 +1,2 @@
+result:
+    print(chunk, end="")
